@@ -1,0 +1,75 @@
+if (raw_input>=0 && raw_input<=99){
+    return 0;
+}
+else if (raw_input>=105 && raw_input<=159){
+    return -1;
+}
+else if (raw_input>=165 && raw_input<=204){
+    return -2;
+}
+else if (raw_input>=210 && raw_input<=244){
+    return -3;
+}
+else if (raw_input>=250 && raw_input<=279){
+    return -4;
+}
+else if (raw_input>=285 && raw_input<=314){
+    return -5;
+}
+else if (raw_input>=320 && raw_input<=349){
+    return -6;
+}
+else if (raw_input>=355 && raw_input<=379){
+    return -7;
+}
+else if (raw_input>=385 && raw_input<=409){
+    return -8;
+}
+else if (raw_input>=415 && raw_input<=439){
+    return -9;
+}
+else if (raw_input>=445 && raw_input<=469){
+    return -10;
+}
+else if (raw_input>=475 && raw_input<=499){
+    return -11;
+}
+else if (raw_input>=505 && raw_input<=529){
+    return -12;
+}
+else if (raw_input>=535 && raw_input<=559){
+    return -13;
+}
+else if (raw_input>=565 && raw_input<=589){
+    return -14;
+}
+else if (raw_input>=595 && raw_input<=624){
+    return -15;
+}
+else if (raw_input>=630 && raw_input<=654){
+    return -16;
+}
+else if (raw_input>=660 && raw_input<=684){
+    return -17;
+}
+else if (raw_input>=690 && raw_input<=719){
+    return -18;
+}
+else if (raw_input>=725 && raw_input<=754){
+    return -19;
+}
+else if (raw_input>=760 && raw_input<=794){
+    return -20;
+}
+else if (raw_input>=800 && raw_input<=834){
+    return -21;
+}
+else if (raw_input>=840 && raw_input<=889){
+    return -22;
+}
+else if (raw_input>=895 && raw_input<=959){
+    return -23;
+}
+else if (raw_input>=965 && raw_input<=1021){
+    return -24;
+}
